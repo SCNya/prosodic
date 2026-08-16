@@ -1,0 +1,856 @@
+[{"stream_name":"stderr","time":8.69124903,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.691332921,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.691344803,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.691350195,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.479602417,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.479641329,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.479647649,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.47965275,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":37.904008289,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":37.904062731,"data":"\n"}
+,{"stream_name":"stderr","time":37.904069211,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":38.339079157,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.339122242,"data":"- types.py\n"}
+,{"stream_name":"stderr","time":38.339129907,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.339136672,"data":"\n"}
+,{"stream_name":"stderr","time":38.339142732,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.339149194,"data":"- types.py\n"}
+,{"stream_name":"stderr","time":38.339155195000004,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.340219841,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.340274957,"data":"- configuration_wavjepa.py\n"}
+,{"stream_name":"stderr","time":38.340281885,"data":"- types.py\n"}
+,{"stream_name":"stderr","time":38.340302078,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.340309675,"data":"\n"}
+,{"stream_name":"stderr","time":38.340315524,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.340321831,"data":"- configuration_wavjepa.py\n"}
+,{"stream_name":"stderr","time":38.340328782,"data":"- types.py\n"}
+,{"stream_name":"stderr","time":38.340335994,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.678822534,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.678866156,"data":"- audio_extractor.py\n"}
+,{"stream_name":"stderr","time":38.678886826,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.678891318,"data":"\n"}
+,{"stream_name":"stderr","time":38.67889463,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.678897986,"data":"- audio_extractor.py\n"}
+,{"stream_name":"stderr","time":38.678901754,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.957986789,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.958034056,"data":"- utils.py\n"}
+,{"stream_name":"stderr","time":38.958046786,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":38.958052621,"data":"\n"}
+,{"stream_name":"stderr","time":38.958056727,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":38.958061101,"data":"- utils.py\n"}
+,{"stream_name":"stderr","time":38.958065372,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097486116,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.097536736,"data":"- pos_embed.py\n"}
+,{"stream_name":"stderr","time":39.097543989,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097549558,"data":"\n"}
+,{"stream_name":"stderr","time":39.097554144,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.097559336,"data":"- pos_embed.py\n"}
+,{"stream_name":"stderr","time":39.097564126,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097569958,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.09757484,"data":"- model.py\n"}
+,{"stream_name":"stderr","time":39.097579288,"data":"- utils.py\n"}
+,{"stream_name":"stderr","time":39.097583915,"data":"- pos_embed.py\n"}
+,{"stream_name":"stderr","time":39.097588171,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097593873,"data":"\n"}
+,{"stream_name":"stderr","time":39.09759864,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.097603798,"data":"- model.py\n"}
+,{"stream_name":"stderr","time":39.097608299,"data":"- utils.py\n"}
+,{"stream_name":"stderr","time":39.097612821,"data":"- pos_embed.py\n"}
+,{"stream_name":"stderr","time":39.097617206,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097639177,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.097645068,"data":"- modeling_wavjepa.py\n"}
+,{"stream_name":"stderr","time":39.097649808,"data":"- audio_extractor.py\n"}
+,{"stream_name":"stderr","time":39.097654328,"data":"- model.py\n"}
+,{"stream_name":"stderr","time":39.097658796,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":39.097663726,"data":"\n"}
+,{"stream_name":"stderr","time":39.097668135,"data":"A new version of the following files was downloaded from https://huggingface.co/labhamlet/wavjepa-base:\n"}
+,{"stream_name":"stderr","time":39.097672944,"data":"- modeling_wavjepa.py\n"}
+,{"stream_name":"stderr","time":39.097677646,"data":"- audio_extractor.py\n"}
+,{"stream_name":"stderr","time":39.097682861,"data":"- model.py\n"}
+,{"stream_name":"stderr","time":39.097687517,"data":". Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.\n"}
+,{"stream_name":"stderr","time":52.651694283,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":52.651733770999996,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":52.651742079,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":52.651748816,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":52.651755441,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":52.652446053,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":52.652475111,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":52.652481777,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":52.65248803,"data":"Exception encountered at \"In [1]\":\n"}
+,{"stream_name":"stderr","time":52.652494071,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":52.65250012,"data":"AttributeError                            Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":52.652506054,"data":"/tmp/ipykernel_16/3939050734.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":52.652512803,"data":"     10     device = torch.device(\"cpu\")\n"}
+,{"stream_name":"stderr","time":52.652517281,"data":"     11 \n"}
+,{"stream_name":"stderr","time":52.652521097,"data":"---\u003e 12 model = AutoModel.from_pretrained(\"labhamlet/wavjepa-base\", trust_remote_code=True).to(device)\n"}
+,{"stream_name":"stderr","time":52.652525436,"data":"     13 if not hasattr(model, \"all_tied_weights_keys\"):\n"}
+,{"stream_name":"stderr","time":52.652529607,"data":"     14     model.all_tied_weights_keys = {}\n"}
+,{"stream_name":"stderr","time":52.652533417,"data":"\n"}
+,{"stream_name":"stderr","time":52.652537064,"data":"/usr/local/lib/python3.12/dist-packages/transformers/models/auto/auto_factory.py in from_pretrained(cls, pretrained_model_name_or_path, *model_args, **kwargs)\n"}
+,{"stream_name":"stderr","time":52.65254139,"data":"    363                 model_class.register_for_auto_class(auto_class=cls)\n"}
+,{"stream_name":"stderr","time":52.652558428,"data":"    364             model_class = add_generation_mixin_to_remote_model(model_class)\n"}
+,{"stream_name":"stderr","time":52.652561974,"data":"--\u003e 365             return model_class.from_pretrained(\n"}
+,{"stream_name":"stderr","time":52.65256526,"data":"    366                 pretrained_model_name_or_path, *model_args, config=config, **hub_kwargs, **kwargs\n"}
+,{"stream_name":"stderr","time":52.652568488,"data":"    367             )\n"}
+,{"stream_name":"stderr","time":52.652571503,"data":"\n"}
+,{"stream_name":"stderr","time":52.652575361,"data":"/usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py in from_pretrained(cls, pretrained_model_name_or_path, config, cache_dir, ignore_mismatched_sizes, force_download, local_files_only, token, revision, use_safetensors, weights_only, *model_args, **kwargs)\n"}
+,{"stream_name":"stderr","time":52.652580194,"data":"   4108         )\n"}
+,{"stream_name":"stderr","time":52.652583331,"data":"   4109         load_info = cls._load_pretrained_model(model, state_dict, checkpoint_files, load_config)\n"}
+,{"stream_name":"stderr","time":52.652586621,"data":"-\u003e 4110         load_info = cls._finalize_load_state_dict(model, load_config, load_info)\n"}
+,{"stream_name":"stderr","time":52.65258988,"data":"   4111         model.eval()  # Set model in evaluation mode to deactivate Dropout modules by default\n"}
+,{"stream_name":"stderr","time":52.652593087,"data":"   4112         model.set_use_kernels(use_kernels, kernel_config)\n"}
+,{"stream_name":"stderr","time":52.652596166,"data":"\n"}
+,{"stream_name":"stderr","time":52.652599481,"data":"/usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py in _finalize_load_state_dict(model, load_config, load_info)\n"}
+,{"stream_name":"stderr","time":52.652602731,"data":"   4262 \n"}
+,{"stream_name":"stderr","time":52.652607437,"data":"   4263         # Marks tied weights as `_is_hf_initialized` to avoid initializing them (it's very important for efficiency)\n"}
+,{"stream_name":"stderr","time":52.652610941,"data":"-\u003e 4264         model.mark_tied_weights_as_initialized()\n"}
+,{"stream_name":"stderr","time":52.652614021,"data":"   4265 \n"}
+,{"stream_name":"stderr","time":52.652616924,"data":"   4266         # Move missing (and potentially mismatched) keys and non-persistent buffers back to their expected device from\n"}
+,{"stream_name":"stderr","time":52.652620163,"data":"\n"}
+,{"stream_name":"stderr","time":52.652623107,"data":"/usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py in mark_tied_weights_as_initialized(self)\n"}
+,{"stream_name":"stderr","time":52.652626206,"data":"   4585         This is very important as most embeddings are tied, and they are huge params (vocabularies are often 256k), so\n"}
+,{"stream_name":"stderr","time":52.652629393,"data":"   4586         running inits on them is very costly.\"\"\"\n"}
+,{"stream_name":"stderr","time":52.652632631,"data":"-\u003e 4587         for tied_param in self.all_tied_weights_keys.keys():\n"}
+,{"stream_name":"stderr","time":52.652635797,"data":"   4588             param = self.get_parameter(tied_param)\n"}
+,{"stream_name":"stderr","time":52.652638861,"data":"   4589             param._is_hf_initialized = True\n"}
+,{"stream_name":"stderr","time":52.652641859,"data":"\n"}
+,{"stream_name":"stderr","time":52.652644679,"data":"/usr/local/lib/python3.12/dist-packages/torch/nn/modules/module.py in __getattr__(self, name)\n"}
+,{"stream_name":"stderr","time":52.652647776,"data":"   1963             if name in modules:\n"}
+,{"stream_name":"stderr","time":52.652650759,"data":"   1964                 return modules[name]\n"}
+,{"stream_name":"stderr","time":52.652657446,"data":"-\u003e 1965         raise AttributeError(\n"}
+,{"stream_name":"stderr","time":52.652660671,"data":"   1966             f\"'{type(self).__name__}' object has no attribute '{name}'\"\n"}
+,{"stream_name":"stderr","time":52.65266401,"data":"   1967         )\n"}
+,{"stream_name":"stderr","time":52.652666947,"data":"\n"}
+,{"stream_name":"stderr","time":52.652669776,"data":"AttributeError: 'WavJEPAModel' object has no attribute 'all_tied_weights_keys'\n"}
+,{"stream_name":"stderr","time":52.652672944,"data":"\n"}
+,{"stream_name":"stderr","time":55.681903969,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":55.681944715,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":55.879702741,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":55.879731914,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":56.635405896,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":56.695758005,"data":"[NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)\n"}
+,{"stream_name":"stderr","time":56.695981923,"data":"\n"}
+,{"stream_name":"stderr","time":56.695990458,"data":"Failed validating 'additionalProperties' in notebook:\n"}
+,{"stream_name":"stderr","time":56.695995972,"data":"\n"}
+,{"stream_name":"stderr","time":56.696001085,"data":"On instance:\n"}
+,{"stream_name":"stderr","time":56.696006196,"data":"{'cells': ['...6 cells...'],\n"}
+,{"stream_name":"stderr","time":56.696011575,"data":" 'kernelspec': {'display_name': 'Python 3',\n"}
+,{"stream_name":"stderr","time":56.696016822,"data":"                'language': 'python',\n"}
+,{"stream_name":"stderr","time":56.69602197,"data":"                'name': 'python3'},\n"}
+,{"stream_name":"stderr","time":56.696027285,"data":" 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},\n"}
+,{"stream_name":"stderr","time":56.696032963,"data":"                   'file_extension': '.py',\n"}
+,{"stream_name":"stderr","time":56.696038303,"data":"                   'mimetype': 'text/x-python',\n"}
+,{"stream_name":"stderr","time":56.696043552,"data":"                   'name': 'python',\n"}
+,{"stream_name":"stderr","time":56.696048558,"data":"                   'nbconvert_exporter': 'python',\n"}
+,{"stream_name":"stderr","time":56.696053728,"data":"                   'pygments_lexer': 'ipython3'},\n"}
+,{"stream_name":"stderr","time":56.696058758,"data":" 'metadata': {'kaggle': {'accelerator': 'none',\n"}
+,{"stream_name":"stderr","time":56.696063793,"data":"                         'dataSources': [],\n"}
+,{"stream_name":"stderr","time":56.696068828,"data":"                         'dockerImageVersionId': 28755,\n"}
+,{"stream_name":"stderr","time":56.696084755,"data":"                         'isGpuEnabled': False,\n"}
+,{"stream_name":"stderr","time":56.696089891,"data":"                         'isInternetEnabled': False,\n"}
+,{"stream_name":"stderr","time":56.696094985,"data":"                         'language': 'python',\n"}
+,{"stream_name":"stderr","time":56.696099995,"data":"                         'sourceType': 'notebook'},\n"}
+,{"stream_name":"stderr","time":56.69610515,"data":"              'kernelspec': {'display_name': 'prosodic (3.14.6)',\n"}
+,{"stream_name":"stderr","time":56.696126712,"data":"                             'language': 'python',\n"}
+,{"stream_name":"stderr","time":56.696132068,"data":"                             'name': 'python3'},\n"}
+,{"stream_name":"stderr","time":56.696136743,"data":"              'language_info': {'codemirror_mode': {'name': 'ipython',\n"}
+,{"stream_name":"stderr","time":56.696141928,"data":"                                                    'version': 3},\n"}
+,{"stream_name":"stderr","time":56.696146493,"data":"                                'file_extension': '.py',\n"}
+,{"stream_name":"stderr","time":56.696151172,"data":"                                'mimetype': 'text/x-python',\n"}
+,{"stream_name":"stderr","time":56.69615594,"data":"                                'name': 'python',\n"}
+,{"stream_name":"stderr","time":56.696160288,"data":"                                'nbconvert_exporter': 'python',\n"}
+,{"stream_name":"stderr","time":56.696165012,"data":"                                'pygments_lexer': 'ipython3',\n"}
+,{"stream_name":"stderr","time":56.696169577,"data":"                                'version': '3.12.13'},\n"}
+,{"stream_name":"stderr","time":56.696174015,"data":"              'papermill': {'default_parameters': {},\n"}
+,{"stream_name":"stderr","time":56.696178539,"data":"                            'duration': 45.019062,\n"}
+,{"stream_name":"stderr","time":56.696183046,"data":"                            'end_time': '2026-07-31T12:08:12.931161+00:00',\n"}
+,{"stream_name":"stderr","time":56.696187838,"data":"                            'environment_variables': {},\n"}
+,{"stream_name":"stderr","time":56.696192636,"data":"                            'exception': True,\n"}
+,{"stream_name":"stderr","time":56.696197095,"data":"                            'input_path': '__notebook__.ipynb',\n"}
+,{"stream_name":"stderr","time":56.696209245,"data":"                            'output_path': '__notebook__.ipynb',\n"}
+,{"stream_name":"stderr","time":56.696214135,"data":"                            'parameters': {},\n"}
+,{"stream_name":"stderr","time":56.696219263,"data":"                            'start_time': '2026-07-31T12:07:27.912099+00:00',\n"}
+,{"stream_name":"stderr","time":56.6962241,"data":"                            'version': '2.7.0'},\n"}
+,{"stream_name":"stderr","time":56.696228596,"data":"              'widgets': {'application/vnd.jupyter.widget-state+json': {'state': {'...': '94 '\n"}
+,{"stream_name":"stderr","time":56.6962336,"data":"                                                                                         'keys '\n"}
+,{"stream_name":"stderr","time":56.696238406,"data":"                                                                                         'truncated',\n"}
+,{"stream_name":"stderr","time":56.696243213,"data":"                                                                                  '008425a4720247f5bf4e18b8b7a62733': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.696248175,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.696253399,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.696258359,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.696263395,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.696272336,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.69627775,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.69628292,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.696288162,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.696317501,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.696323616,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.696328817,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.696334208,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.696339673,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.696350695,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.696355722,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.696360955,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.696365813,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.696370723,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.69637574,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.696381108,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.6963861,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.696390909,"data":"                                                                                  '00c4f05561774e89b71917def9d36414': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.69640236,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.696407656,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.696412541,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.69641773,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.696422577999996,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.696427995,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.69643305,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69643849,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.696443878,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.69644924,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.696454301,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.696459296,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.69646976,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.696475675,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.69648114,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.696486715,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.69649205,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.696497506,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.69650664,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.698408536,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.698434703,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.698441348,"data":"                                                                                  '024234279c9c45959433f37ddbf8878e': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698447389,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69845306,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.698458129,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.698463199,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698468943,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698476396,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.698481783,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.698487169,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698492789,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698498033999996,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":56.698503473,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":56.698508594,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":56.698514069,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9647e51835a942f7a336c028cf037438',\n"}
+,{"stream_name":"stderr","time":56.698519297,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":56.698537485,"data":"                                                                                                                                 'style': 'IPY_MODEL_6c1a04ab15ca458f9ae6c98801d165e8',\n"}
+,{"stream_name":"stderr","time":56.698543583,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":56.698549108,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":56.69855542,"data":"                                                                                                                                 'value': 'types.py:\\u2007'}},\n"}
+,{"stream_name":"stderr","time":56.69856837,"data":"                                                                                  '02520ed83bcd4b1eb6f81d70d06387d3': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698573523,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698578903,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.698583979,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.698589123,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.6985941,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.69859922,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.69860462,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698609955,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.69861484,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.698619995,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698625363,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698633175,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.698638683,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.698643808,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.698652591,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.698657829,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.698662922,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.698668179,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.698673416,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.698678637,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.698689996,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.698695118,"data":"                                                                                  '026305fe6849426e8428aad24f5f5393': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698700297,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698705357,"data":"                                                                                                                       'model_name': 'HTMLStyleModel',\n"}
+,{"stream_name":"stderr","time":56.69871061,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698716667,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698724373,"data":"                                                                                                                                 '_model_name': 'HTMLStyleModel',\n"}
+,{"stream_name":"stderr","time":56.698729348,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.698734755,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698739867,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698745176,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":56.698750435,"data":"                                                                                                                                 'background': None,\n"}
+,{"stream_name":"stderr","time":56.698758688,"data":"                                                                                                                                 'description_width': '',\n"}
+,{"stream_name":"stderr","time":56.698763682,"data":"                                                                                                                                 'font_size': None,\n"}
+,{"stream_name":"stderr","time":56.69876887,"data":"                                                                                                                                 'text_color': None}},\n"}
+,{"stream_name":"stderr","time":56.69877422,"data":"                                                                                  '06fd0091feb94cf9a054b759b11d7ebf': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698779849,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698785086,"data":"                                                                                                                       'model_name': 'FloatProgressModel',\n"}
+,{"stream_name":"stderr","time":56.698790763,"data":"                                                                                                                       'state': {'...': '3 '\n"}
+,{"stream_name":"stderr","time":56.698796088,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.698801182,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.69881203,"data":"                                                                                                                                 '_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.698817138,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698822355,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698827587,"data":"                                                                                                                                 '_model_name': 'FloatProgressModel',\n"}
+,{"stream_name":"stderr","time":56.698832977,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.698838356,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.698843732,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698848813,"data":"                                                                                                                                 '_view_name': 'ProgressView',\n"}
+,{"stream_name":"stderr","time":56.698853905,"data":"                                                                                                                                 'bar_style': 'success',\n"}
+,{"stream_name":"stderr","time":56.698862162,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":56.698867809,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":56.698873206,"data":"                                                                                                                                 'layout': 'IPY_MODEL_4fb4f432cbb24ce3920c5f940cfc6192',\n"}
+,{"stream_name":"stderr","time":56.698878541,"data":"                                                                                                                                 'max': 1.0,\n"}
+,{"stream_name":"stderr","time":56.698883559,"data":"                                                                                                                                 'min': 0.0,\n"}
+,{"stream_name":"stderr","time":56.69888862,"data":"                                                                                                                                 'orientation': 'horizontal',\n"}
+,{"stream_name":"stderr","time":56.698893835,"data":"                                                                                                                                 'style': 'IPY_MODEL_f77d9ea6265049f5ba25a5308cfcfa25'}},\n"}
+,{"stream_name":"stderr","time":56.698899113,"data":"                                                                                  '0af36ab7b4bd4891b54ebbe0cbbd736c': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698904067,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69890997,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.69891529,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.698920372,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.698925458,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.69893645,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698942075,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69894742,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.698952548,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.698957738,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.698966113,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.698971499,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.698976696,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.698981965,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.69898708,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.69899228,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.698997358,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.699002362,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.699007558,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.699013259,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.699018558,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.699023852,"data":"                                                                                  '0c4453b35e3d424e97873f46654c4dad': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699029062,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699034053,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699039152,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.69904449,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.699055164,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.699060643,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699069426,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699074905,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699080185,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699085569,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699090876,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699096687,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.699102192,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.699107439,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.699112658,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.69911782,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.699122968,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.69912807,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.699133112,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.699138199,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.699143495,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.699148723,"data":"                                                                                  '0c5d3995bd9847e094c8d2bbc030a675': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699153995,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699159399,"data":"                                                                                                                       'model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":56.699165128,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699178837,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69918435,"data":"                                                                                                                                 '_model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":56.699189553,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699194692,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699199723,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699204786,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":56.699209948000004,"data":"                                                                                                                                 'bar_color': None,\n"}
+,{"stream_name":"stderr","time":56.699215153,"data":"                                                                                                                                 'description_width': ''}},\n"}
+,{"stream_name":"stderr","time":56.699220434,"data":"                                                                                  '0cd5a11be02348cc8bfab8a743ef7290': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699225597,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699230619,"data":"                                                                                                                       'model_name': 'HBoxModel',\n"}
+,{"stream_name":"stderr","time":56.699235834,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.699242915,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699248171,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699253192,"data":"                                                                                                                                 '_model_name': 'HBoxModel',\n"}
+,{"stream_name":"stderr","time":56.69925844,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699263656,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699269077,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699277217,"data":"                                                                                                                                 '_view_name': 'HBoxView',\n"}
+,{"stream_name":"stderr","time":56.699282494,"data":"                                                                                                                                 'box_style': '',\n"}
+,{"stream_name":"stderr","time":56.699302323,"data":"                                                                                                                                 'children': ['IPY_MODEL_7aa10830994d427d84ef738eba4e9514',\n"}
+,{"stream_name":"stderr","time":56.699319905,"data":"                                                                                                                                              'IPY_MODEL_3a1d1b5435824b14a0d876af5980404d',\n"}
+,{"stream_name":"stderr","time":56.699325195,"data":"                                                                                                                                              'IPY_MODEL_fb37b0200da44d979ee4b6a480f728d7'],\n"}
+,{"stream_name":"stderr","time":56.699339513,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9a041c8558424e96921d2cf62fde9e73',\n"}
+,{"stream_name":"stderr","time":56.699345376,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":56.699350748,"data":"                                                                                                                                 'tooltip': None}},\n"}
+,{"stream_name":"stderr","time":56.699356004,"data":"                                                                                  '1028ffdfb5f441efaaffc2d77691c8a7': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699361497,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699366822,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699372139,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.699377493,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699382986,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699388266,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699393868,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699399248,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699407879,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699413526,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":56.699419439,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":56.699424798,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":56.699430115,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9fa84bf14d3c487b8c1d15996880cb87',\n"}
+,{"stream_name":"stderr","time":56.69943558,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":56.699440699,"data":"                                                                                                                                 'style': 'IPY_MODEL_e18c1497844549bb8901295e812ebde0',\n"}
+,{"stream_name":"stderr","time":56.699451714,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":56.699457053,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":56.699462435,"data":"                                                                                                                                 'value': 'audio_extractor.py:\\u2007'}},\n"}
+,{"stream_name":"stderr","time":56.699467853,"data":"                                                                                  '130b7b0ec3ca4566a0b5edc558580603': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699473318,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699478797,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699484272,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.699489355,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699495407,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699500806,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699505963,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699514223,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699519479,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699524613,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":56.699529952,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":56.699535266,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":56.699540499,"data":"                                                                                                                                 'layout': 'IPY_MODEL_6a12cfbdb3a54e2da50d67ba747c309f',\n"}
+,{"stream_name":"stderr","time":56.699555323,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":56.699560743,"data":"                                                                                                                                 'style': 'IPY_MODEL_ff47162bd7b64838889fecd41bad823c',\n"}
+,{"stream_name":"stderr","time":56.699572048,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":56.699577299,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":56.699582918,"data":"                                                                                                                                 'value': 'Loading\\u2007'\n"}
+,{"stream_name":"stderr","time":56.699593904,"data":"                                                                                                                                          'weights:\\u2007'\n"}
+,{"stream_name":"stderr","time":56.699599207,"data":"                                                                                                                                          '100%'}},\n"}
+,{"stream_name":"stderr","time":56.699604361,"data":"                                                                                  '14e52936b612425eb0eb1190671ce446': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699609766,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699615117,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699620363,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.699625542,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.699633942,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.699639333,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699644558,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699650083,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699655388,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.6996608,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699666059,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699671246,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.699676362,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.699681329,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.699686509,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.699691896,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.699697201,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.699702392,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.699712863,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.699718044,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.69972327,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":56.699728604,"data":"                                                                                  '1a5c06c51f5646f9a06277ff10748b19': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699737129,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699742565,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699747862,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":56.699753268,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699758478,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699763617,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":56.699768752,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699774104,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699779618,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699784889,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":56.699790226,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":56.699795386,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":56.69980087,"data":"                                                                                                                                 'layout': 'IPY_MODEL_bcd7fabc07364353a52d53947a9f1eff',\n"}
+,{"stream_name":"stderr","time":56.699806797,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":56.699812376,"data":"                                                                                                                                 'style': 'IPY_MODEL_32613f87d093427489d918158a0bc3f3',\n"}
+,{"stream_name":"stderr","time":56.699817835,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":56.699822825,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":56.699832117,"data":"                                                                                                                                 'value': 'model.safetensors:\\u2007'\n"}
+,{"stream_name":"stderr","time":56.699841175,"data":"                                                                                                                                          '100%'}},\n"}
+,{"stream_name":"stderr","time":56.69984661,"data":"                                                                                  '2077d60374714c939182dbbf5069b224': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699851917,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69985705,"data":"                                                                                                                       'model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":56.699862399,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":56.699867834,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699873342,"data":"                                                                                                                                 '_model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":56.699878563,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699884168,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.69988962,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.69989492,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":56.699900033,"data":"                                                                                                                                 'bar_color': None,\n"}
+,{"stream_name":"stderr","time":56.699905253,"data":"                                                                                                                                 'description_width': ''}},\n"}
+,{"stream_name":"stderr","time":56.699910492,"data":"                                                                                  '22e8a87916f34976b1b9377537060f3c': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699915879,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699921193,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699926658,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":56.699931985,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":56.699940157,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":56.699945382,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699950797,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699962189,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":56.699967345,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":56.699972625,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":56.699978182,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":56.699983452,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":56.699988606,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":56.699993784,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":56.699999008,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":56.700004161,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":56.700009633,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":56.700014838,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":56.700020003,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":56.700025183,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":56.700030159,"data":"                                                                                                                                 'display': None}}},\n"}
+,{"stream_name":"stderr","time":56.700036284,"data":"                                                                        'version_major': 2,\n"}
+,{"stream_name":"stderr","time":56.700041428,"data":"                                                                        'version_minor': 0}}},\n"}
+,{"stream_name":"stderr","time":56.700049071,"data":" 'nbformat': 4,\n"}
+,{"stream_name":"stderr","time":56.700053901,"data":" 'nbformat_minor': 5}\n"}
+,{"stream_name":"stderr","time":57.083519269,"data":"[NbConvertApp] Writing 140480 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":60.198440609,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":60.25921074,"data":"[NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('kernelspec', 'language_info' were unexpected)\n"}
+,{"stream_name":"stderr","time":60.259248916,"data":"\n"}
+,{"stream_name":"stderr","time":60.2592557,"data":"Failed validating 'additionalProperties' in notebook:\n"}
+,{"stream_name":"stderr","time":60.259261756,"data":"\n"}
+,{"stream_name":"stderr","time":60.259267497,"data":"On instance:\n"}
+,{"stream_name":"stderr","time":60.259272804,"data":"{'cells': ['...4 cells...'],\n"}
+,{"stream_name":"stderr","time":60.259278385,"data":" 'kernelspec': {'display_name': 'Python 3',\n"}
+,{"stream_name":"stderr","time":60.259284076,"data":"                'language': 'python',\n"}
+,{"stream_name":"stderr","time":60.259319898,"data":"                'name': 'python3'},\n"}
+,{"stream_name":"stderr","time":60.259326911,"data":" 'language_info': {'codemirror_mode': {'name': 'ipython', 'version': 3},\n"}
+,{"stream_name":"stderr","time":60.259333515,"data":"                   'file_extension': '.py',\n"}
+,{"stream_name":"stderr","time":60.259339525,"data":"                   'mimetype': 'text/x-python',\n"}
+,{"stream_name":"stderr","time":60.259345563,"data":"                   'name': 'python',\n"}
+,{"stream_name":"stderr","time":60.25935135,"data":"                   'nbconvert_exporter': 'python',\n"}
+,{"stream_name":"stderr","time":60.25935698,"data":"                   'pygments_lexer': 'ipython3'},\n"}
+,{"stream_name":"stderr","time":60.259363215,"data":" 'metadata': {'kaggle': {'accelerator': 'none',\n"}
+,{"stream_name":"stderr","time":60.259369128,"data":"                         'dataSources': [],\n"}
+,{"stream_name":"stderr","time":60.259375116,"data":"                         'dockerImageVersionId': 28755,\n"}
+,{"stream_name":"stderr","time":60.25938112,"data":"                         'isGpuEnabled': False,\n"}
+,{"stream_name":"stderr","time":60.259386972,"data":"                         'isInternetEnabled': False,\n"}
+,{"stream_name":"stderr","time":60.259393042,"data":"                         'language': 'python',\n"}
+,{"stream_name":"stderr","time":60.259399255,"data":"                         'sourceType': 'notebook'},\n"}
+,{"stream_name":"stderr","time":60.259405524,"data":"              'kernelspec': {'display_name': 'prosodic (3.14.6)',\n"}
+,{"stream_name":"stderr","time":60.259411871,"data":"                             'language': 'python',\n"}
+,{"stream_name":"stderr","time":60.259418135,"data":"                             'name': 'python3'},\n"}
+,{"stream_name":"stderr","time":60.259424385,"data":"              'language_info': {'codemirror_mode': {'name': 'ipython',\n"}
+,{"stream_name":"stderr","time":60.259430447,"data":"                                                    'version': 3},\n"}
+,{"stream_name":"stderr","time":60.259436504,"data":"                                'file_extension': '.py',\n"}
+,{"stream_name":"stderr","time":60.259442732,"data":"                                'mimetype': 'text/x-python',\n"}
+,{"stream_name":"stderr","time":60.259448782,"data":"                                'name': 'python',\n"}
+,{"stream_name":"stderr","time":60.259484335,"data":"                                'nbconvert_exporter': 'python',\n"}
+,{"stream_name":"stderr","time":60.259490121,"data":"                                'pygments_lexer': 'ipython3',\n"}
+,{"stream_name":"stderr","time":60.259494636,"data":"                                'version': '3.12.13'},\n"}
+,{"stream_name":"stderr","time":60.259499398,"data":"              'papermill': {'default_parameters': {},\n"}
+,{"stream_name":"stderr","time":60.25950419,"data":"                            'duration': 45.019062,\n"}
+,{"stream_name":"stderr","time":60.259508975,"data":"                            'end_time': '2026-07-31T12:08:12.931161+00:00',\n"}
+,{"stream_name":"stderr","time":60.259514021,"data":"                            'environment_variables': {},\n"}
+,{"stream_name":"stderr","time":60.259518587,"data":"                            'exception': True,\n"}
+,{"stream_name":"stderr","time":60.259523544,"data":"                            'input_path': '__notebook__.ipynb',\n"}
+,{"stream_name":"stderr","time":60.25953088,"data":"                            'output_path': '__notebook__.ipynb',\n"}
+,{"stream_name":"stderr","time":60.259535777,"data":"                            'parameters': {},\n"}
+,{"stream_name":"stderr","time":60.25954016,"data":"                            'start_time': '2026-07-31T12:07:27.912099+00:00',\n"}
+,{"stream_name":"stderr","time":60.25954513,"data":"                            'version': '2.7.0'},\n"}
+,{"stream_name":"stderr","time":60.259549815,"data":"              'widgets': {'application/vnd.jupyter.widget-state+json': {'state': {'...': '94 '\n"}
+,{"stream_name":"stderr","time":60.25955428,"data":"                                                                                         'keys '\n"}
+,{"stream_name":"stderr","time":60.259559092,"data":"                                                                                         'truncated',\n"}
+,{"stream_name":"stderr","time":60.2595641,"data":"                                                                                  '008425a4720247f5bf4e18b8b7a62733': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259569566,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259574308,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.259579787,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.259584588,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.259589328,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.25959456,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259600027,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.25960554,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.25961615,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.2596225,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259627688,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259632618,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.259637778,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.259643048,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.259648282,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.259653518,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.25965863,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.25966406,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.259669298,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.259674463,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.259679333,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.259684522,"data":"                                                                                  '00c4f05561774e89b71917def9d36414': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259690608,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259695387,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.259700357,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.259705545,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.259714447,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.259719458,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.25972446,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259729218,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.259734292,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.259739145,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.25974439,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.25974942,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.259754334,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.259759935,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.259764932,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.259770283,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.25977534,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.259780575,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.25978561,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.25979082,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.259796128,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.259801162,"data":"                                                                                  '024234279c9c45959433f37ddbf8878e': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.259806485,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259815085,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.25981961,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.259824968,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.259829925,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.25983542,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.259840068,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.25984485,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.259849641,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259854815,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":60.259860013,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":60.259865294,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":60.259870262,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9647e51835a942f7a336c028cf037438',\n"}
+,{"stream_name":"stderr","time":60.259875733,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":60.259880975,"data":"                                                                                                                                 'style': 'IPY_MODEL_6c1a04ab15ca458f9ae6c98801d165e8',\n"}
+,{"stream_name":"stderr","time":60.25988636,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":60.25989173,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":60.259897556,"data":"                                                                                                                                 'value': 'types.py:\\u2007'}},\n"}
+,{"stream_name":"stderr","time":60.259906363,"data":"                                                                                  '02520ed83bcd4b1eb6f81d70d06387d3': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259911892,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259917036,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.259922247,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.259927822,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.25993337,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.259938477,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259943897,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259948694,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.259953436,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.259958438,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.259963438,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.259969711,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.259974567,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.259979292,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.259984284,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.259988961,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.259993853,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.259998438,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.260006878,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.26001186,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.26001654,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.260022067,"data":"                                                                                  '026305fe6849426e8428aad24f5f5393': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26002738,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260032268,"data":"                                                                                                                       'model_name': 'HTMLStyleModel',\n"}
+,{"stream_name":"stderr","time":60.260037058,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260042615,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260047615,"data":"                                                                                                                                 '_model_name': 'HTMLStyleModel',\n"}
+,{"stream_name":"stderr","time":60.260052432,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260057422,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.2600624,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260067655,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":60.260072703,"data":"                                                                                                                                 'background': None,\n"}
+,{"stream_name":"stderr","time":60.260077358,"data":"                                                                                                                                 'description_width': '',\n"}
+,{"stream_name":"stderr","time":60.260081947,"data":"                                                                                                                                 'font_size': None,\n"}
+,{"stream_name":"stderr","time":60.26008661,"data":"                                                                                                                                 'text_color': None}},\n"}
+,{"stream_name":"stderr","time":60.260091537,"data":"                                                                                  '06fd0091feb94cf9a054b759b11d7ebf': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260099763,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26010497,"data":"                                                                                                                       'model_name': 'FloatProgressModel',\n"}
+,{"stream_name":"stderr","time":60.260110488,"data":"                                                                                                                       'state': {'...': '3 '\n"}
+,{"stream_name":"stderr","time":60.260115492,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.260120778,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.260126011,"data":"                                                                                                                                 '_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.260131088,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260136208,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26014148,"data":"                                                                                                                                 '_model_name': 'FloatProgressModel',\n"}
+,{"stream_name":"stderr","time":60.260146681,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260151802,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260157052,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260161627,"data":"                                                                                                                                 '_view_name': 'ProgressView',\n"}
+,{"stream_name":"stderr","time":60.260166827,"data":"                                                                                                                                 'bar_style': 'success',\n"}
+,{"stream_name":"stderr","time":60.26017221,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":60.260177481,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":60.260182803,"data":"                                                                                                                                 'layout': 'IPY_MODEL_4fb4f432cbb24ce3920c5f940cfc6192',\n"}
+,{"stream_name":"stderr","time":60.260187655,"data":"                                                                                                                                 'max': 1.0,\n"}
+,{"stream_name":"stderr","time":60.260195937,"data":"                                                                                                                                 'min': 0.0,\n"}
+,{"stream_name":"stderr","time":60.260201133,"data":"                                                                                                                                 'orientation': 'horizontal',\n"}
+,{"stream_name":"stderr","time":60.260206328,"data":"                                                                                                                                 'style': 'IPY_MODEL_f77d9ea6265049f5ba25a5308cfcfa25'}},\n"}
+,{"stream_name":"stderr","time":60.260211434,"data":"                                                                                  '0af36ab7b4bd4891b54ebbe0cbbd736c': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260216311,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260221309,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.260226487,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.260231625,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.260236771,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.260241688,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260247408,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260252022,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.260256818,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260262219,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.26026739,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260272305,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.260276985,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.260281732,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.260310304,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.260319295,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.2603243,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.260329382,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.260334293,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.260339728,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.260345192,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.260349788,"data":"                                                                                  '0c4453b35e3d424e97873f46654c4dad': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260354965,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26035998,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.26036522,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.260370187,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.260375083,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.26037988,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260385134,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260390148,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.260395182,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260400014,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260408825,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26041437,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.260419255,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.260424305,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.260429361999996,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.260433972,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.26043886,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.260444042,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.260448948,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.260467002,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.260472352,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.260477547,"data":"                                                                                  '0c5d3995bd9847e094c8d2bbc030a675': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260483358,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26048847,"data":"                                                                                                                       'model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":60.26049398,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26049937,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260504832,"data":"                                                                                                                                 '_model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":60.260510432,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260515352,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260523567999996,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260528698,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":60.260533685,"data":"                                                                                                                                 'bar_color': None,\n"}
+,{"stream_name":"stderr","time":60.260539134,"data":"                                                                                                                                 'description_width': ''}},\n"}
+,{"stream_name":"stderr","time":60.260544273,"data":"                                                                                  '0cd5a11be02348cc8bfab8a743ef7290': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260549588,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260554827,"data":"                                                                                                                       'model_name': 'HBoxModel',\n"}
+,{"stream_name":"stderr","time":60.260560003,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.260566902,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26057199,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260576975,"data":"                                                                                                                                 '_model_name': 'HBoxModel',\n"}
+,{"stream_name":"stderr","time":60.260582027,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260587188,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260592655,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260597476,"data":"                                                                                                                                 '_view_name': 'HBoxView',\n"}
+,{"stream_name":"stderr","time":60.260602303,"data":"                                                                                                                                 'box_style': '',\n"}
+,{"stream_name":"stderr","time":60.260607453,"data":"                                                                                                                                 'children': ['IPY_MODEL_7aa10830994d427d84ef738eba4e9514',\n"}
+,{"stream_name":"stderr","time":60.26062173,"data":"                                                                                                                                              'IPY_MODEL_3a1d1b5435824b14a0d876af5980404d',\n"}
+,{"stream_name":"stderr","time":60.260627423,"data":"                                                                                                                                              'IPY_MODEL_fb37b0200da44d979ee4b6a480f728d7'],\n"}
+,{"stream_name":"stderr","time":60.260633078,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9a041c8558424e96921d2cf62fde9e73',\n"}
+,{"stream_name":"stderr","time":60.260638972,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":60.26064432,"data":"                                                                                                                                 'tooltip': None}},\n"}
+,{"stream_name":"stderr","time":60.260649455,"data":"                                                                                  '1028ffdfb5f441efaaffc2d77691c8a7': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260657643,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260662657,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.260668133,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.26067355,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26067871,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260684048,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.260689468,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260695255,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260700712,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260705742,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":60.260711956,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":60.260717093,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":60.26072549,"data":"                                                                                                                                 'layout': 'IPY_MODEL_9fa84bf14d3c487b8c1d15996880cb87',\n"}
+,{"stream_name":"stderr","time":60.260730848,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":60.260735923,"data":"                                                                                                                                 'style': 'IPY_MODEL_e18c1497844549bb8901295e812ebde0',\n"}
+,{"stream_name":"stderr","time":60.260741007,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":60.26074633,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":60.26075183,"data":"                                                                                                                                 'value': 'audio_extractor.py:\\u2007'}},\n"}
+,{"stream_name":"stderr","time":60.260757148,"data":"                                                                                  '130b7b0ec3ca4566a0b5edc558580603': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260761832,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260767232,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.260772462,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.260777645,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260783605,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26078911,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.260794248,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.260799185,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260803994,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260808754,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":60.26081369,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":60.260821728,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":60.260826791,"data":"                                                                                                                                 'layout': 'IPY_MODEL_6a12cfbdb3a54e2da50d67ba747c309f',\n"}
+,{"stream_name":"stderr","time":60.260831375,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":60.260836265,"data":"                                                                                                                                 'style': 'IPY_MODEL_ff47162bd7b64838889fecd41bad823c',\n"}
+,{"stream_name":"stderr","time":60.260841914,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":60.260846818,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":60.26085247,"data":"                                                                                                                                 'value': 'Loading\\u2007'\n"}
+,{"stream_name":"stderr","time":60.260857822,"data":"                                                                                                                                          'weights:\\u2007'\n"}
+,{"stream_name":"stderr","time":60.260862948,"data":"                                                                                                                                          '100%'}},\n"}
+,{"stream_name":"stderr","time":60.260868168,"data":"                                                                                  '14e52936b612425eb0eb1190671ce446': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260873655,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.2608794,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.260884483,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.26088948,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.260894483,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.26089983,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260905148,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260910481,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.26091959,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.26092615,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.260931598,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.260936634,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.26094191,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.260947187,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.26095244,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.260956996,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.260962131,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.260967027,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.260972432,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.260977474,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.260982784,"data":"                                                                                                                                 'display': None}},\n"}
+,{"stream_name":"stderr","time":60.260988093,"data":"                                                                                  '1a5c06c51f5646f9a06277ff10748b19': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.260993782,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26099917,"data":"                                                                                                                       'model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.261004351,"data":"                                                                                                                       'state': {'_dom_classes': [],\n"}
+,{"stream_name":"stderr","time":60.261009931,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26101956,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261025716,"data":"                                                                                                                                 '_model_name': 'HTMLModel',\n"}
+,{"stream_name":"stderr","time":60.261031177,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.261036645,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.26104243,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261047966,"data":"                                                                                                                                 '_view_name': 'HTMLView',\n"}
+,{"stream_name":"stderr","time":60.261053535,"data":"                                                                                                                                 'description': '',\n"}
+,{"stream_name":"stderr","time":60.26105893,"data":"                                                                                                                                 'description_allow_html': False,\n"}
+,{"stream_name":"stderr","time":60.261064494,"data":"                                                                                                                                 'layout': 'IPY_MODEL_bcd7fabc07364353a52d53947a9f1eff',\n"}
+,{"stream_name":"stderr","time":60.261070805,"data":"                                                                                                                                 'placeholder': '\\u200b',\n"}
+,{"stream_name":"stderr","time":60.261076697,"data":"                                                                                                                                 'style': 'IPY_MODEL_32613f87d093427489d918158a0bc3f3',\n"}
+,{"stream_name":"stderr","time":60.261081879,"data":"                                                                                                                                 'tabbable': None,\n"}
+,{"stream_name":"stderr","time":60.261087228,"data":"                                                                                                                                 'tooltip': None,\n"}
+,{"stream_name":"stderr","time":60.261092847,"data":"                                                                                                                                 'value': 'model.safetensors:\\u2007'\n"}
+,{"stream_name":"stderr","time":60.261098396,"data":"                                                                                                                                          '100%'}},\n"}
+,{"stream_name":"stderr","time":60.261104032,"data":"                                                                                  '2077d60374714c939182dbbf5069b224': {'model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.261109702,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.26111521,"data":"                                                                                                                       'model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":60.261123949,"data":"                                                                                                                       'state': {'_model_module': '@jupyter-widgets/controls',\n"}
+,{"stream_name":"stderr","time":60.261129596,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261135238,"data":"                                                                                                                                 '_model_name': 'ProgressStyleModel',\n"}
+,{"stream_name":"stderr","time":60.261140918,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.261146817,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.26115254,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261158276,"data":"                                                                                                                                 '_view_name': 'StyleView',\n"}
+,{"stream_name":"stderr","time":60.261163765,"data":"                                                                                                                                 'bar_color': None,\n"}
+,{"stream_name":"stderr","time":60.261169316,"data":"                                                                                                                                 'description_width': ''}},\n"}
+,{"stream_name":"stderr","time":60.261174958,"data":"                                                                                  '22e8a87916f34976b1b9377537060f3c': {'model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.261180615,"data":"                                                                                                                       'model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261185562,"data":"                                                                                                                       'model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.261190995,"data":"                                                                                                                       'state': {'...': '30 '\n"}
+,{"stream_name":"stderr","time":60.26119647,"data":"                                                                                                                                        'keys '\n"}
+,{"stream_name":"stderr","time":60.26120217,"data":"                                                                                                                                        'truncated',\n"}
+,{"stream_name":"stderr","time":60.261207683,"data":"                                                                                                                                 '_model_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.261212932,"data":"                                                                                                                                 '_model_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261218121,"data":"                                                                                                                                 '_model_name': 'LayoutModel',\n"}
+,{"stream_name":"stderr","time":60.261226155,"data":"                                                                                                                                 '_view_count': None,\n"}
+,{"stream_name":"stderr","time":60.26123118,"data":"                                                                                                                                 '_view_module': '@jupyter-widgets/base',\n"}
+,{"stream_name":"stderr","time":60.26123634,"data":"                                                                                                                                 '_view_module_version': '2.0.0',\n"}
+,{"stream_name":"stderr","time":60.261241568,"data":"                                                                                                                                 '_view_name': 'LayoutView',\n"}
+,{"stream_name":"stderr","time":60.261246102,"data":"                                                                                                                                 'align_content': None,\n"}
+,{"stream_name":"stderr","time":60.261251227,"data":"                                                                                                                                 'align_items': None,\n"}
+,{"stream_name":"stderr","time":60.261256592,"data":"                                                                                                                                 'align_self': None,\n"}
+,{"stream_name":"stderr","time":60.261261922,"data":"                                                                                                                                 'border_bottom': None,\n"}
+,{"stream_name":"stderr","time":60.261267476,"data":"                                                                                                                                 'border_left': None,\n"}
+,{"stream_name":"stderr","time":60.261273017,"data":"                                                                                                                                 'border_right': None,\n"}
+,{"stream_name":"stderr","time":60.261277932,"data":"                                                                                                                                 'border_top': None,\n"}
+,{"stream_name":"stderr","time":60.261282928,"data":"                                                                                                                                 'bottom': None,\n"}
+,{"stream_name":"stderr","time":60.261311476,"data":"                                                                                                                                 'display': None}}},\n"}
+,{"stream_name":"stderr","time":60.261323605,"data":"                                                                        'version_major': 2,\n"}
+,{"stream_name":"stderr","time":60.261329017,"data":"                                                                        'version_minor': 0}}},\n"}
+,{"stream_name":"stderr","time":60.26133446,"data":" 'nbformat': 4,\n"}
+,{"stream_name":"stderr","time":60.261339535,"data":" 'nbformat_minor': 5}\n"}
+,{"stream_name":"stderr","time":61.339995316,"data":"[NbConvertApp] Writing 413165 bytes to __results__.html\n"}
+]

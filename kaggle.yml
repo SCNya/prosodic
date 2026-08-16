@@ -1,0 +1,10 @@
+project: prosodic
+kernel_slug: vsevolodalekseenko/prosodic
+code_file: prosodic.ipynb
+accelerator: none
+internet: true
+privacy: private
+datasets: []
+competitions: []
+outputs:
+  download_to: .kaggle-outputs/
